@@ -70,7 +70,7 @@ Implement intelligent and realistic cycling behaviour for NPCs that dynamically 
   - `BP_StreetSuburban` handles endless street generation: when the player is within **240m** of the street end, it spawns another **120m** segment.
   - Ensure the NPC target destination (end of bike lane) works with continuous street generation.
 
-You are free to use any approach in solving these assignment. You are allowed to modify any existing features if you think it's necesary in achieving the objective.
+You are free to use any approach in solving this challenge. You are allowed to modify any existing features if you think it's necesary in achieving the objective.
 
 ### Coding Challenge 2: VR Level Transformation (on site)
 **Objective:** Convert the first-person level into a fully functional VR experience, preserving existing features while adapting UI and controls for VR.
@@ -82,5 +82,5 @@ You are free to use any approach in solving these assignment. You are allowed to
 - `FirstPerson/Blueprints/BP_PawnManager` – Pawn manager (handles player pawn).  
 - `UI/WDs/` – UI Widgets (must be adapted for VR interaction).  
 
-You are free to use any approach in solving these assignment. You are allowed to modify any existing features if you think it's necesary in achieving the objective.
+You are free to use any approach in solving this challenge. You are allowed to modify any existing features if you think it's necesary in achieving the objective.
 
