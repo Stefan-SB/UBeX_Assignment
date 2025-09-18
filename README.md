@@ -74,6 +74,7 @@ You are free to use any approach in solving this challenge. You are allowed to m
 
 ### Coding Challenge 2: VR Level Transformation (on site)
 **Objective:** Convert the first-person level into a fully functional VR experience, preserving existing features while adapting UI and controls for VR.
+[📄 View the full assignment PDF](Docs/Assignment2.pdf)
 
 **Relevant files/folders:**
 - `FirstPerson/Blueprints/BP_FirstPersonCharacter` – Player character Blueprint.  
